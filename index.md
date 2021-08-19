@@ -15,7 +15,7 @@
   <button class="button" onclick="Clear()">Clear canvas</button>
   <button class="button"onclick="setup()">Generate drawings</button>
   <canvas id = "canvas" class = "canvas" style = "background : rgb(236, 231, 231); margin:20px 20px; border-color:black; border-width:2px; border-radius:5px;" height = "600px" width = "600px"></canvas>
- <p>The more straight lines you drawing has, the more accurate the drawing will be.</p>
+ <p>The more straight lines your drawing has, the more accurate the drawing will be.</p>
 
 
  
