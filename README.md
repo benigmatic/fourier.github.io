@@ -1,4 +1,4 @@
 # Fourier-Drawings
 
 Drawing with Fourier series. 
-https://benigmatic/fourier.github.io
+https://benigmatic.github.io/fourier.github.io/
